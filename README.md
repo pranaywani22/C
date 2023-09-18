@@ -1,2 +1,4 @@
 # C
-Here are my codes which Ihave made using C programming.
+Here are few codes of C programming 
+<br>
+Author:- Pranay Ajitkumar Wani
