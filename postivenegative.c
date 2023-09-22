@@ -1,5 +1,6 @@
 /*
 Author:- Pranay Ajitkumar Wani
+This code is structured to find weather the given number is positive negative or zero
 */
 #include<conio.h>
 #include<stdio.h>
