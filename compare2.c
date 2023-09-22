@@ -1,5 +1,6 @@
 /*
 Author :- Pranay Ajitkumar Wani
+This code is structured in C programming language to find which number is greater out of two given numbers
 */
 #include<stdio.h>
 #include<stdlib.h>
@@ -7,8 +8,11 @@ Author :- Pranay Ajitkumar Wani
 int main()
 {
     int a,b;
-    printf("\n Enter 2 int values to compare");
-    scanf("%d%d",&a,&b);
+    printf("\n Enter first number");
+    scanf("%d",&a);
+    printf("\n Enter second number");
+    scanf("%d",&b);
+    printf("\n Value of A=%d \t B=%d",a,b)
     if(a>b)
         printf("%d is greater than %d",a,b);
     else
