@@ -1,5 +1,6 @@
 /*
 Author :- Pranay Ajitkumar Wani
+This code is structured in C programming language to find weather the given number is odd or even
 */
 void main(){
     int i;
