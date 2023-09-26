@@ -1,5 +1,6 @@
 /*
 Author:- Pranay Ajitkumar Wani
+This program is structured in C programming to find weather the given number is a Harshad Number or not
 */
 #include<stdio.h>
 #include<conio.h>
