@@ -8,7 +8,7 @@ it consist of switch case and functions logic.
 int maths();
 void main(){
     int i;
-printf("\n \n Enter 1 for addition \t 2 for substraction \n 3 for multiplication \t 4 for division \t");
+printf("\n \n Enter 1 for addition \t 2 for substraction \n 3 for multiplication \t 4 for division \n 5 for modulus\t");
 scanf("%d",&i);
 maths(i);
 }
@@ -35,6 +35,11 @@ case 4:{ int a,b;
 printf("\n Enter 2 int numbers");
 scanf("%d%d",&a,&b);
 printf("\n %d/%d =%d",a,b,a/b);}
+    break;
+case 5:{ int a,b;
+printf("\n Enter 2 int numbers");
+scanf("%d%d",&a,&b);
+printf("\n %d%%d =%d",a,b,a%b);}
     break;
 default:
     printf("given number is invalid");
