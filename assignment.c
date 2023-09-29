@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani
+This code is structured in C programming to practice the use of assignment operator.
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
