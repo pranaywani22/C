@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani
+The given code is designed in c programming to check and practice the relational operators.
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
