@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajtkumar Wani
+This code is structured in c programming to swap the values of the variables entered by the user using multiplication and addition. 
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
