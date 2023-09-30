@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani
+This code is structured in c programming to practice the logical oprators and see its applications.
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
