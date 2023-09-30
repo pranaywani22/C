@@ -1,3 +1,7 @@
+/*
+Author :- Pranay Ajitkumar Wani
+this codeis structured in c programming to practice the ise of logical and 
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
