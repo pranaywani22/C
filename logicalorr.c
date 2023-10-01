@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani
+Thsi is a code practiced in c programming to practice logical or
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
