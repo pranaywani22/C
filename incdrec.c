@@ -1,3 +1,7 @@
+/*
+Author :- Pranay Ajitkumar Wani
+This program is designed in c prograamming to practice increment and decreament operators
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
