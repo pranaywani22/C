@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani 
+This codee is structured in c programming to practice post increase and post decrease
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
