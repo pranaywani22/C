@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani
+This progra is structured in c programming to practice pre increase and pre decrease statements
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
