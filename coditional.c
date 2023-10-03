@@ -1,3 +1,6 @@
+/*
+Author:- Pranay Ajitkumar Wani
+*/
 #include<conio.h>
 #include<stdio.h>
 
