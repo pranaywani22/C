@@ -1,5 +1,6 @@
 /*
-Author:- Pranay Ajitkumar Wani
+Author:- Pranay Ajitkumar Wani 
+This code is structurrred in C prrogrraming to teest and ppractce conditional operators
 */
 #include<conio.h>
 #include<stdio.h>
