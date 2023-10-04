@@ -1,3 +1,7 @@
+/*
+Author:-Pranay Ajitkumar Wani
+this code is structured in c programming to find the gross salary 
+*/
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
