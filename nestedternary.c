@@ -1,6 +1,6 @@
 /*
 Author:- Pranay Ajitkumar Wani
-This cod is designeed in c programing to test and ppractice neesteed ternary coondiitional operators 
+This code is designed in c programing to test and ppractice neesteed ternary coondiitional operators 
 */
 #include<stdio.h>
 #include<conio.h>
