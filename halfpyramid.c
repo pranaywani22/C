@@ -1,6 +1,6 @@
 /*
 Author:- Pranay Ajitkukamr Wani
-This program is structured in C programming to make a half pyramid of the given number
+This program is structured in C programming to make a half pyramid of the given number.
 */
 #include <stdio.h>
 #include <stdlib.h>
