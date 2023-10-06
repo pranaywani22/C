@@ -1,5 +1,6 @@
 /*
 Author:- Pranay Ajitkumar Wani
+This code is programmeed in C pprogramming to calculate hotel blls
 */
 #include<stdio.h>
 #include<conio.h>
