@@ -1,6 +1,6 @@
 /*
 Author:- Pranay Ajitkumar Wani
-This file is structured in c programming to find weather the given number is armstrong
+This file is structured in c programming to find weather the given number is Armstrong.
 */
 #include<stdio.h>
 #include<conio.h>
