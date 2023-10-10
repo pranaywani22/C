@@ -1,3 +1,7 @@
+/*
+Author:- Pranay Ajitkumar Wani
+this code is designed in c prograamming to print the count a series of number to which u want
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
