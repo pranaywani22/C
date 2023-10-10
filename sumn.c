@@ -1,4 +1,7 @@
-/*This code is designed in c programming to add the number asked by the user using while loop*/
+/*
+Author:- Pranay Ajitkumar Wani
+This code is designed in c programming to add the number asked by the user using while loop
+*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
